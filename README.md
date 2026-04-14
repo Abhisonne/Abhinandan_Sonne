@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm a data analyst with a focus on financial and business data. I enjoy working across the full analytics workflow — from data cleaning and SQL-based exploration to building interactive dashboards that help stakeholders make better decisions.
+I'm a data analyst with a focus on financial and business data. I enjoy working across the full analytics workflow from data cleaning and SQL-based exploration to building interactive dashboards that help stakeholders make better decisions.
 
 Currently open to **Data Analyst**, **Business Analyst**, and **Financial Analyst** roles.
 
