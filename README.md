@@ -33,7 +33,7 @@ Currently open to **Data Analyst**, **Business Analyst**, and **Financial Analys
 
 ### 🛒 Olist E-Commerce Sales & Customer Behavior Analysis
 
-End-to-end analysis of 99,441 real orders from Brazil's largest e-commerce marketplace. Built a complete analytics pipeline — SQL data cleaning, RFM customer segmentation, Python EDA with 8 charts, and a 2-page Power BI dashboard. Key findings: Nov 2017 Black Friday spike drove R$1.18M peak revenue, SP alone = 37.4% of GMV, and Potential Loyalists generate 6.5× more revenue than Champions despite similar group size.
+End-to-end analysis of 99,441 real orders from Brazil's largest e-commerce marketplace. Built a complete analytics pipeline SQL data cleaning, RFM customer segmentation, Python EDA with 8 charts, and a 2-page Power BI dashboard. Key findings: Nov 2017 Black Friday spike drove R$1.18M peak revenue, SP alone = 37.4% of GMV, and Potential Loyalists generate 6.5× more revenue than Champions despite similar group size.
 
 **Tools:** SQL (SQLite · DBeaver) · Python · pandas · matplotlib · Power BI
 
