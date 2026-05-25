@@ -31,6 +31,16 @@ Currently open to **Data Analyst**, **Business Analyst**, and **Financial Analys
 
 ## Projects
 
+### 🛒 Olist E-Commerce Sales & Customer Behavior Analysis
+
+End-to-end analysis of 99,441 real orders from Brazil's largest e-commerce marketplace. Built a complete analytics pipeline — SQL data cleaning, RFM customer segmentation, Python EDA with 8 charts, and a 2-page Power BI dashboard. Key findings: Nov 2017 Black Friday spike drove R$1.18M peak revenue, SP alone = 37.4% of GMV, and Potential Loyalists generate 6.5× more revenue than Champions despite similar group size.
+
+**Tools:** SQL (SQLite · DBeaver) · Python · pandas · matplotlib · Power BI
+
+→ [View Repository](https://github.com/Abhisonne/olist-ecommerce-analysis)
+
+---
+
 ### 📊 Customer Churn Analysis - Telecom
 End-to-end churn analysis for a telecom company with 7,043 customers. Identified contract type as the #1 churn driver (month-to-month customers churn at 38% vs 9% for annual contracts). Found that price is NOT a churn driver both groups pay ~$68/month shifting the business recommendation from price cuts to engagement and commitment strategies.
 
@@ -46,15 +56,6 @@ Analysed customer financial behaviour to identify drivers of credit delinquency.
 **Tools:** Python · Power BI · pandas · Excel
 
 → [View Repository](https://github.com/Abhisonne/credit-risk-analysis-dashboard)
-
----
-
-### 🛒 Brazilian E-Commerce Sales & Customer Behavior Analysis
-End-to-end analysis of a real-world e-commerce dataset using SQL and Power BI. Uncovered key patterns in sales trends, regional revenue, product performance, and customer retention including a cohort analysis showing very low repeat purchase rates.
-
-**Tools:** SQL (SQLite) · Power BI · Excel
-
-→ [View Repository](https://github.com/Abhisonne/ecommerce-analysis)
 
 ---
 
